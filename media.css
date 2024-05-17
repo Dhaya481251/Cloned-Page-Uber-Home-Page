@@ -1,0 +1,444 @@
+@media all and (max-width:2560px){
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    input{
+        width: 30rem;
+    }
+    #input-arrow{
+        margin-left: 9rem;
+    }
+    #uberApp2{
+        margin-top: 1.5rem;
+    }
+    #uberApp4{
+        margin-top: 1.5rem;
+    }
+    #QR2{
+        width: 35rem;
+    }
+    #last-row{
+        margin-left: 29rem;
+    }
+}
+@media all and (max-width:1440px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar{
+        margin-left: -4rem;
+    }
+    #navbar2{
+        margin-left: -2rem;
+    }
+    #navbar-icon{
+        display: none;
+    }
+    #uberApp2{
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+    #QR1{
+        margin-top: 3rem;
+    }
+    #QR2{
+        margin-top: -4.7rem;
+        width: 34rem;
+    }
+    #uberApp4{
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+    #account-text{
+        margin-left: -4rem;
+    }
+    #check-text1{
+        margin-left: -9rem;
+    }
+    #check-text2{
+        margin-left: -9rem;
+    }
+    #last-row{
+        margin-left: 23rem;
+    }
+    input{
+        width: 30rem;
+    }
+    #input-arrow{
+        margin-left: 9rem;
+    }
+}
+@media all and (max-width:1024px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar-icon{
+        color:white;
+        display: inline-block;
+        position: absolute;
+        z-index: 1;
+        margin-left: 63rem;
+    }
+    #navbar2{
+        margin-left: -6rem;
+        display: inline-flex;
+    }
+    #nav-list{
+        display: none;
+    }
+    #navbar{
+        margin-left: -4rem;
+    }
+    #language-place{
+        margin-left: -11rem;
+    }
+    #last-row{
+        margin-left: 13rem;
+    }
+    #QR1{
+        max-width: 100%;
+        border: 1px solid;
+        margin-left: 4rem;
+    }
+    #QR2{
+
+        border: 1px solid;
+        width: 54rem;
+        
+    }
+    #uberApp2{
+        width: 84px;
+        height: 84px;
+        margin-top: 4rem;
+        margin-left: 1rem;
+    }
+    #uberApp4{
+        width: 84px;
+        height: 84px;
+        margin-top: 4rem;
+        border-radius: 20px;
+    }
+    input{
+        width: 28rem;
+    }
+    #input-arrow{
+        margin-left: 7rem;
+    }
+}
+@media all and (max-width:768px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar-icon{
+        color:white;
+        display: inline-block;
+        position: absolute;
+        z-index: 1;
+        margin-left: 47rem;
+    }
+    #nav{
+        display: list-item;
+    }
+    #nav-list{
+        display: none;
+    }
+    #navbar2{
+        display: flex;
+        flex-direction: row;
+    }
+    #GoAnywhere-text{
+        font-size: 44px;
+    }
+    #Uber-u{
+        font-size: 64px;
+    }
+    #language-place{
+        margin-left: -17rem;
+    }
+    #last-row{
+        margin-left: 5rem;
+    }
+    #global-travel{
+        margin-left: 0.5rem;
+        margin-top: -7rem;
+    }
+    input{
+        width: 21rem;
+    }
+    #input-arrow{
+       margin-left: 0rem;
+    }
+    #QR2{
+        width: 39rem;
+    }
+}
+@media all and (max-width:425px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar-icon{
+        color:white;
+        display: inline-block;
+        position: absolute;
+        z-index: 1;
+        margin-left: 26rem;
+    }
+    #nav{
+        display: inline-flex;
+        flex-direction: row-reverse;
+        padding-right: 2rem;
+        margin-top: -6rem;
+    }
+    #nav-list{
+        display: none;
+    }
+    input{
+        width: 24rem;
+    }
+    #QR1{
+        max-width: 20rem;
+    }
+    #QR2{
+        max-width: 20rem;
+    }
+    #uberApp4{
+        margin-left: 1rem;
+    }
+    #language-place{
+        margin-left: -13rem;
+    }
+    #last-row{
+        margin-left: 0rem;
+    }
+    #input-arrow{
+        margin-left: 3rem;
+    }
+}
+@media all and (max-width:390px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar-icon{
+        color:white;
+        display: inline-block;
+        position: absolute;
+        z-index: 1;
+        margin-left: 26rem;
+    }
+    #nav{
+        display: inline-flex;
+        flex-direction: row-reverse;
+        padding-right: 2rem;
+        margin-top: -6rem;
+    }
+    #nav-list{
+        display: none;
+    }
+    #navbar{
+        margin-left: -6rem;
+    }
+    input{
+        width: 22rem;
+    }
+    #input-arrow{
+        margin-left: 1rem;
+    }
+    #QR2{
+        width: 18.5rem;
+    }
+    #social-media{
+        margin-left: -1rem;
+    }
+    #language-place{
+        margin-left: -16rem;
+    }
+}
+@media all and (max-width:375px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar-icon{
+        color:white;
+        display: inline-block;
+        position: absolute;
+        z-index: 1;
+        margin-left: 25rem;
+    }
+    #nav{
+        display: inline-flex;
+        flex-direction: row-reverse;
+        padding-right: 2rem;
+        margin-top: -6rem;
+    }
+    #nav-list{
+        display: none;
+    }
+    #navbar{
+        margin-left: -6rem;
+    }
+    #account-text{
+        margin-left: -4rem;
+    }
+    #check-text1{
+        margin-left: -9rem;
+    }
+    #check-text2{
+        margin-left: -9rem;
+    }
+    #img-business{
+        margin-top: 3rem;
+    }
+    #img-go{
+        margin-top: 3rem;
+    }
+    #app-text{
+        font-size: 2rem;
+        margin-left: 1rem;
+    }
+    #uberApp2{
+        width: 84px;
+        height: 84px;
+        margin-top: 4rem;
+        margin-left: 1rem;
+    }
+    #uberApp4{
+        width: 84px;
+        height: 84px;
+        margin-top: 4rem;
+        border-radius: 20px;
+    }
+    #download-text1{
+        text-wrap: wrap;
+        line-height: 1.5rem;
+    }
+    #download-u{
+        font-size: 18px;
+    }
+    #scan-text1{
+        font-size: 14px;
+    }
+    #QR1{
+        width: 18rem;
+        margin-left: 4.5rem;
+    }
+    #QR2{
+        width: 18rem;
+    }
+    input{
+        width: 21rem;
+    }
+    #social-media{
+        margin-left: -1.4rem;
+    }
+}
+@media all and (max-width:320px){
+    
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x:hidden ;
+    }
+    body #logo{
+        max-width: 90%;
+        display: block;
+    }
+    #navbar-icon{
+        color:white;
+        display: inline-block;
+        position: absolute;
+        z-index: 1;
+        margin-left: 21rem;
+    }
+    #nav{
+        display: inline-flex;
+        flex-direction: row-reverse;
+        padding-right: 2rem;
+        margin-top: -6rem;
+    }
+    #nav-list{
+        display: none;
+    }
+    #navbar{
+        margin-left: -6rem;
+    }
+    #QR1{
+        width: 15rem;
+        margin-left: 4rem;
+    }
+    #QR2{
+        width: 15rem;
+    }
+    #language-place{
+        margin-left: -20rem;
+    }
+    input{
+        width: 18rem;
+    }
+    #input-arrow{
+        margin-left: -2rem;
+    }
+}

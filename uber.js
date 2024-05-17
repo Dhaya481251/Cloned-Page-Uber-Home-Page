@@ -1,0 +1,270 @@
+function arrowRotate(){
+    document.getElementById("chevronArrowDown").style.transform=("rotate(180deg)");
+    document.getElementById("chevronArrowDown").style.marginLeft="1rem";
+}
+$(document).ready(function(){
+    $("#Ride").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#Ride").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#Drive").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#Drive").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#Business").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#Business").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#Uber-Eats").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#Uber-Eats").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#About").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#About").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#Language").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#Language").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#Help").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#Help").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#LogIn").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#LogIn").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#SignUp").mouseenter(function(){
+        $(this).css({"background":"rgb(226, 226, 226)"})
+    })
+    $("#SignUp").mouseleave(function(){
+        $(this).css({"background":"white"})
+    })
+    $("#price-btn").mouseenter(function(){
+        $(this).css({"background":"rgb(226, 226, 226)"})
+    })
+    $("#price-btn").mouseleave(function(){
+        $(this).css({"background":"white"})
+    })
+    $("#start-btn1").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#start-btn1").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#start-btn2").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#start-btn2").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#start-btn3").mouseenter(function(){
+        $(this).css({"background":"rgb(40, 40, 40)"})
+    })
+    $("#start-btn3").mouseleave(function(){
+        $(this).css({"background":"black"})
+    })
+    $("#about").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#about").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#offerings").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#offerings").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#newsroom").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#newsroom").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#investors").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#investors").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#blog").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#blog").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#careers").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#careers").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#ai").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#ai").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#gift").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#gift").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#ride").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#ride").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#drive").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#drive").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#deliver").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#deliver").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#eat").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#eat").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#uber-business").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#uber-business").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#uber-freight").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#uber-freight").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#safety").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#safety").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#diversity").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#diversity").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#sustainability").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#sustainability").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#reserve").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#reserve").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#airports").mouseenter(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#airports").mouseleave(function(){
+        $(this).css({"color":"white"})
+    })
+    $("#facebook").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#facebook").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#twitter").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#twitter").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#youtube").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#youtube").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#linkedin").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#linkedin").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#instagram").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#instagram").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#english").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#english").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#kochi").mouseenter(function(){
+        $(this).css({"background-color":"rgb(40, 40, 40)"})
+    })
+    $("#kochi").mouseleave(function(){
+        $(this).css({"background-color":"black"})
+    })
+    $("#privacy").mouseenter(function(){
+        $(this).css({"color":"#4B4B4B"})
+    })
+    $("#privacy").mouseleave(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#accessibility").mouseenter(function(){
+        $(this).css({"color":"#4B4B4B"})
+    })
+    $("#accessibility").mouseleave(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#terms").mouseenter(function(){
+        $(this).css({"color":"#4B4B4B"})
+    })
+    $("#terms").mouseleave(function(){
+        $(this).css({"color":"#AFAFAF"})
+    })
+    $("#arrow1").mouseenter(function(){
+        $(this).css({"transform": "translateX(5%)"})
+    })
+    $("#arrow1").mouseleave(function(){
+        $(this).css({"transform": "translateX(-20%)"})
+    })
+    $("#arrow2").mouseenter(function(){
+        $(this).css({"transform": "translateX(5%)"})
+    })
+    $("#arrow2").mouseleave(function(){
+        $(this).css({"transform": "translateX(-20%)"})
+    })
+})
